@@ -14,6 +14,9 @@ public class ReUsableMethods {
 		System.out.println("Jira4");
 		System.out.println("Jira5");
 		
+		System.out.println("Jira6");
+		System.out.println("Jira7");
+		
 		return js1;
 	}
 
